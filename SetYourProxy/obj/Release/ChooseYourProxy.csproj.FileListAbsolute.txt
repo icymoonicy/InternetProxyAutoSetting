@@ -1,0 +1,9 @@
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Release\ChooseYourProxy.exe.config
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Release\ChooseYourProxy.exe
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Release\ChooseYourProxy.pdb
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.Form1.resources
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.Properties.Resources.resources
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.csproj.GenerateResource.Cache
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.exe
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.pdb
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.csprojResolveAssemblyReference.cache

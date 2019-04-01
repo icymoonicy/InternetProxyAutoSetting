@@ -1,0 +1,18 @@
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.csprojResolveAssemblyReference.cache
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.Form1.resources
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.Properties.Resources.resources
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.csproj.GenerateResource.Cache
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\bin\Debug\ChooseYourProxy.exe.config
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\bin\Debug\ChooseYourProxy.exe
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\bin\Debug\ChooseYourProxy.pdb
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.exe
+c:\users\kalos.xu.corp\documents\visual studio 2017\Projects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.pdb
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Debug\ChooseYourProxy.exe.config
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Debug\ChooseYourProxy.exe
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Debug\ChooseYourProxy.pdb
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.csprojResolveAssemblyReference.cache
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.Form1.resources
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.Properties.Resources.resources
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.csproj.GenerateResource.Cache
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.exe
+E:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Debug\ChooseYourProxy.pdb

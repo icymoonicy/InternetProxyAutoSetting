@@ -1,0 +1,10 @@
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\SetYourProxy.csprojAssemblyReference.cache
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\SetYourProxy.Form1.resources
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.Properties.Resources.resources
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\SetYourProxy.csproj.GenerateResource.cache
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\SetYourProxy.csproj.CoreCompileInputs.cache
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.exe
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\obj\Release\ChooseYourProxy.pdb
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Release\ChooseYourProxy.exe.config
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Release\ChooseYourProxy.exe
+D:\MyProjects\ChooseYourProxy\ChooseYourProxy\bin\Release\ChooseYourProxy.pdb
